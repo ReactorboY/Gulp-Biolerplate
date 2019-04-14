@@ -15,7 +15,7 @@ const folders = {
 //  minify any new images
 gulp.task('images', () => {
     return gulp.src(folders.src + 'images/**/*')
-        // .pipe(newer(folders.src + 'images/'))
+        .pipe(newer(folders.src + 'images/'))
         .pipe(imagemin({optimizationLevel: 5}))
         .pipe(gulp.dest(folders.build + 'images/'));
 })
