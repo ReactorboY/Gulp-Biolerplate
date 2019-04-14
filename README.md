@@ -18,10 +18,10 @@ Gulpers is a template with pre written automation task so that you can test and 
 * NodeJs
 * Text Editor
 
-## How to use the Gulper
+## How to use the Gulpers
 1. clone the template from Github, cd into the directory and install dependency using below command in cmd
     ```
-    git clone git@github.com:ReactorboY/Gulper.git
+    git clone git@github.com:ReactorboY/Gulpers.git
 
     cd gulper
     npm install
