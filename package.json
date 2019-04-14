@@ -1,0 +1,28 @@
+{
+  "name": "Gulp-Boilerplate",
+  "version": "1.0.0",
+  "description": "Initial Setup of any Project which are using Gulp to automate things",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReactorboY/Gulp-Boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^9.5.1",
+    "gulp": "^4.0.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "browser-sync": "latest"
+  },
+  "bugs": {
+    "url": "https://github.com/ReactorboY/Gulp-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/ReactorboY/Gulp-Boilerplate#readme"
+}
