@@ -18,6 +18,9 @@ Gulper is a template with pre written automation task so that you can test and t
 
 ## How to use the Gulper
 1. clone the template from Github using below command  
-    `git clone git@github.com:ReactorboY/Gulper.git`
+    ```
+    git clone git@github.com:ReactorboY/Gulper.git
 
-2. 
+    cd gulper
+    npm install
+    ```
