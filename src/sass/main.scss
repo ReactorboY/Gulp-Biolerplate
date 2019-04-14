@@ -1,10 +1,14 @@
 $primaryColor: #302547;
 $secondryColor: #f7c6c6;
-$textPrimary: #444;
+$textPrimary: #fff;
+$fontFamaily: Raleway, Roboto;
 
 body {
     background-color: $primaryColor;
     color: $textPrimary;
+    font: {
+        family: $fontFamaily;
+    }
 }
 
 div {

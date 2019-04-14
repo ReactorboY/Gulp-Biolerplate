@@ -1,6 +1,7 @@
 body {
   background-color: #302547;
-  color: #444; }
+  color: #fff;
+  font-family: Raleway, Roboto; }
 
 div {
   display: -webkit-box;

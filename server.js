@@ -6,20 +6,13 @@ const exphbs = require('express-handlebars');
 
 const app = express();
 app.set('views', path.join(__dirname + '/views'));
-app.engine('handlebars', exphbs({
-    defaultLayout: 'main'
-}));
+app.engine('handlebars', exphbs({ defaultLayout: 'main' }));
 app.set('view engine', 'handlebars');
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(logger('dev'));
 
-// "sass": "node-sass -w public/scss -o public/css"
-// support parsing of application/json type post data
 app.use(bodyParser.json());
-//support parsing of application/x-www-form-urlencoded post data
-app.use(bodyParser.urlencoded({
-    extended: true
-}));
+app.use(bodyParser.urlencoded({ extended: true }));
 
 const PORT = process.env.PORT || 3002;
 

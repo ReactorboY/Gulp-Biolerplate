@@ -28,6 +28,9 @@ gulp.task('css', () => {
 })
 
 gulp.task('gulper', () => {
+    browserSync.init({
+        proxy: 'localhost:3002'
+    })
     gulp.watch(folders.src + 'sass/**/*', gulp.series('css'));
     gulp.watch('./views/*.handlebars').on('change', browserSync.reload);
 });
