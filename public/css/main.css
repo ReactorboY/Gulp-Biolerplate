@@ -1,0 +1,8 @@
+body {
+  background-color: #302547;
+  color: #444; }
+
+div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }

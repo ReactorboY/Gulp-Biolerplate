@@ -1,0 +1,12 @@
+$primaryColor: #302547;
+$secondryColor: #f7c6c6;
+$textPrimary: #444;
+
+body {
+    background-color: $primaryColor;
+    color: $textPrimary;
+}
+
+div {
+    display: flex;
+}
