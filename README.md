@@ -1,5 +1,5 @@
 # Gulper
-Just to focus on code, not on compiling, minifying and managing your handlebars and sass code we created the Gulper for other task.
+Just to focus on code, not on compiling, minifying and managing your handlebars and sass code we created the Gulper for other boring repeative task.
 
 Gulper is a template with pre written automation task so that you can test and tweak your code without reload server and refreshing browser on your system.
 
