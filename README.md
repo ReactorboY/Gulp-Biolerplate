@@ -1,5 +1,5 @@
 # Gulpers
-![npm](https://img.shields.io/npm/v/gulpers.svg)  
+![npm](https://img.shields.io/npm/v/gulpers.svg) ![GitHub package.json version](https://img.shields.io/github/package-json/v/reactorboy/gulpers.svg?style=flat-square)  
 Just to focus on code, not on compiling, minifying and managing your handlebars and sass code we created the Gulper for other boring repeative task.
 
 Gulpers is a template with pre written automation task so that you can test and tweak your code without restarting the server and refreshing browser on your system everytime you make changes.
