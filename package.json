@@ -15,14 +15,21 @@
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^9.5.1",
+    "browser-sync": "latest",
     "gulp": "^4.0.0",
+    "gulp-newer": "^1.4.0",
     "gulp-postcss": "^8.0.0",
     "gulp-sass": "^4.0.2",
-    "browser-sync": "latest",
     "nodemon": "latest"
   },
   "bugs": {
     "url": "https://github.com/ReactorboY/Gulp-Boilerplate/issues"
   },
-  "homepage": "https://github.com/ReactorboY/Gulp-Boilerplate#readme"
+  "homepage": "https://github.com/ReactorboY/Gulp-Boilerplate#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "morgan": "^1.9.1"
+  }
 }
