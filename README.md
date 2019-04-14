@@ -7,7 +7,7 @@ Gulper is a template with pre written automation task so that you can test and t
 * ### Sass Compilation
     Edit your **main.scss** file and jus see the changes on your Browser.
 
-* ### Auto Browser reload
+* ### Auto Browser refresh
     No need to referesh your browser when you have chnages something, may be your front-end template 
     or something else, just **Save** and see changes.
 
