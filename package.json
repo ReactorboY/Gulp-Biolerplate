@@ -4,8 +4,7 @@
   "description": "Initial Setup of any Project which are using Gulp to automate things",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -19,7 +18,8 @@
     "gulp": "^4.0.0",
     "gulp-postcss": "^8.0.0",
     "gulp-sass": "^4.0.2",
-    "browser-sync": "latest"
+    "browser-sync": "latest",
+    "nodemon": "latest"
   },
   "bugs": {
     "url": "https://github.com/ReactorboY/Gulp-Boilerplate/issues"

@@ -1,2 +1,2 @@
 # Gulp-Boilerplate
-Initial Setup of any Project which are using Gulp to automate things
+Gulp Boilerplate is a directory of initial files required that can be used to automate the many task using the Gulp task runner.
