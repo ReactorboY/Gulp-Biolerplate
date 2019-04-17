@@ -1,8 +1,8 @@
-# Gulpers
+# Gulp-Boilerplate
 ![npm](https://img.shields.io/npm/v/gulpers.svg) ![GitHub package.json version](https://img.shields.io/github/package-json/v/reactorboy/gulpers.svg?style=flat-square)  
-Just to focus on code, not on compiling, minifying and managing your handlebars and sass code we created the Gulper for other boring repeative task.
+Just to focus on code, not on compiling, minifying and managing your handlebars and sass code we created the Gulp-Boilerplate for other boring repeative task.
 
-Gulpers is a template with pre written automation task so that you can test and tweak your code without restarting the server and refreshing browser on your system everytime you make changes.
+Gulp-Boilerplate is a template with pre written automation task so that you can test and tweak your code without restarting the server and refreshing browser on your system everytime you make changes.
 
 ## What is does >
 * ### Sass Compilation
@@ -22,9 +22,9 @@ Gulpers is a template with pre written automation task so that you can test and 
 ## How to use the Gulpers
 1. clone the template from Github, cd into the directory and install dependency using below command in cmd
     ```
-    git clone git@github.com:ReactorboY/Gulpers.git
+    git clone git@github.com:ReactorboY/Gulp-Boilerplate.git
 
-    cd gulper
+    cd gulp-boilerplate
     npm install
     ```
 2. Now open **two cmd prompt** and in   
